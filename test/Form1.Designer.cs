@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            button1.Location = new Point(258, 197);
+            button1.Location = new Point(68, 64);
             button1.Name = "button1";
-            button1.Size = new Size(142, 49);
+            button1.Size = new Size(441, 196);
             button1.TabIndex = 0;
             button1.Text = "Caencel";
             button1.UseVisualStyleBackColor = true;
